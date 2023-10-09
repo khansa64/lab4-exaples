@@ -1,0 +1,3 @@
+C:\Users\213064\source\repos\lab4 EX\lab4 EX\obj\Debug\netcoreapp3.1\lab4 EX.AssemblyInfoInputs.cache
+C:\Users\213064\source\repos\lab4 EX\lab4 EX\obj\Debug\netcoreapp3.1\lab4 EX.AssemblyInfo.cs
+C:\Users\213064\source\repos\lab4 EX\lab4 EX\obj\Debug\netcoreapp3.1\lab4 EX.csproj.CoreCompileInputs.cache
